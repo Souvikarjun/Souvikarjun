@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Learning as more as I can<br>🎲 Fun fact: I sleep after having coffee</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning Web Dev.<br>🎯 Goals: Learning as much as I can.<br>🎲 Fun fact: I sleep after having coffee.</p>
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
 
 ###
 
