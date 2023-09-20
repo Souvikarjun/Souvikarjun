@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I sleep after having coffee.**
 
-#<img align="right" height="150" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<--<img align="right" height="150" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
