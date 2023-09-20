@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I sleep after having coffee.**
 
+<img align="right" height="150" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Souvikarjun_Deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvikarjun_deb" height="30" width="40" /></a>
@@ -22,8 +24,6 @@
 <a href="https://www.facebook.com/souvikarjundeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvikarjun deb" height="30" width="40" /></a>
 <a href="https://www.instagram.com/souvik_r_un" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvikarjun deb" height="30" width="40" /></a>
 </p>
-
-<img align="right" height="150" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 
 <h3 align="left">Languages and Tools:</h3>
