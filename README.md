@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="".\github-header-image.png""  />
+  <img height="150" src=".\github-header-image.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Souvikarjun Deb</h1>
