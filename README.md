@@ -1,7 +1,7 @@
-<!--<div align="center">
+<div align="center">
   <img height="150" src=".\github-header-image.png"  />
 </div>
--->
+
 
 <h1 align="center">Hi 👋, I'm Souvikarjun Deb</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
