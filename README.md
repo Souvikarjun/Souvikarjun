@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src=".\github-header-image1.png"  />
+  <img height="150" width="200" src=".\github-header-image1.png"  />
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Souvikarjun Deb</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<!-- <h1 align="center">Hi 👋, I'm Souvikarjun Deb</h1>
+<h3 align="center">A passionate developer from Bangladesh</h3> -->
 
 - 🔭 I’m currently working on **Machine Learning**
 
