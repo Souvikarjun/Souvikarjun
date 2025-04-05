@@ -64,12 +64,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikarjun&theme=dark" alt="souvikarjun" /></p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=souvikarjun&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikarjun&show_icons=true&theme=dark&locale=en&layout=compact" alt="souvikarjun" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikarjun&show_icons=true&theme=dark&locale=en&layout=compact" alt="souvikarjun" /></p>
 </div>
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikarjun&show_icons=true&theme=dark&locale=en" alt="souvikarjun" /></p>
