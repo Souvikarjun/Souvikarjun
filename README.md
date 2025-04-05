@@ -49,8 +49,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souvikarjun/souvikarjun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souvikarjun/souvikarjun/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/souvikarjun/souvikarjun/output/snake.svg" alt="Snake animation" />
 </picture>
 
