@@ -40,3 +40,14 @@
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikarjun&show_icons=true&theme=dark&locale=en" alt="souvikarjun" /></p>
 </div>
+
+
+<div align="left">
+  <a href="https://open.spotify.com/user/312begnezjkv3nge2hccnsguesom">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312begnezjkv3nge2hccnsguesom&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/souvikarjun/souvikarjun/output/snake.svg" alt="Snake animation" />
+
+
