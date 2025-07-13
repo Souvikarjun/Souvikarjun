@@ -1,15 +1,9 @@
 
  <h1 align="center">Hi 👋, I'm Souvikarjun Deb</h1>
 <!-- <h3 align="center">A passionate developer from Bangladesh</h3> -->
+<h2>I am a Frontend Dev with React and Next Js. </h2>
 
-- 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Anything, Like to spread knowledge and Love to learn.**
-
-- 📫 How to reach me **souvikarjundeb@gmail.com**
-
-- ⚡ Fun fact **I sleep after having coffee.**
-
-
+- Worked with several companies upscaling them over 20%
+- Built Many web apps for clients worldwide.
+- Currently Doing Challenges to scale myself up.
+- Reach me at souvikarjundeb@gmail.com
